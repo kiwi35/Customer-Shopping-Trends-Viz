@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```text
-CodeAlpha_Data_Visualisation/
+Customer_Shopping_Trends_Viz/
 │
 ├── data/
 │   ├── customer_shopping_behavior.csv
